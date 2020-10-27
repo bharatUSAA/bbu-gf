@@ -1,19 +1,20 @@
 Members are required to enter into contractual agreements with the Bedrock Consortium.
 
 ### All Participants
-All members MUST sign the [Participation Agreement (MS-WORD)](./contracts/bbu_participation_agreement.docx)
+All members MUST sign the [Participation Agreement (PDF)](./contracts/watermarked/bbu_participation_agreement.pdf)
 
 ### Stewards
-Any member that is required by the Participation Agreement to
-[host a utility infrastructure node](https://bedrock-consortium.github.io/bbu-gf/gf_info/membership/#membership-types) is considered a Steward and MUST sign these contractual instruments:
+Any member that is required by the Participation Agreement to [host a utility infrastructure node](https://bedrock-consortium.github.io/bbu-gf/gf_info/membership/#membership-types) is considered a Steward and MUST sign these contractual instruments:
 
-* [Steward Agreement (MS-WORD)](./contracts/steward_agreement.docx)
-* [Steward Data Processing Agreement (MS-WORD)](./contracts/steward_dpa.docx)
-* [Transaction Endorser Agreement (MS-WORD)](./contracts/trx_endorser_agreement.docx)
-* [Transaction Endorser Data Processing Agreement (MS-WORD)](./contracts/trx_endorser_dpa.docx)
-* *Optional* [Transaction Author Agreement (MS-WORD)](./contracts/trx_author_agreement.docx)
+* [Steward Agreement (PDF)](./contracts/watermarked/steward_agreement.pdf)
+* [Steward Data Processing Agreement (PDF)](./contracts/watermarked/steward_dpa.pdf)
+* [Transaction Endorser Agreement (PDF)](./contracts/watermarked/trx_endorser_agreement.pdf)
+* [Transaction Endorser Data Processing Agreement (PDF)](./contracts/watermarked/trx_endorser_dpa.pdf)
+* *Optional* [Transaction Author Agreement (PDF)](./contracts/watermarked/trx_author_agreement.pdf)
 
 ### Subscribers
-* [Transaction Endorser Agreement (MS-WORD)](./contracts/trx_endorser_agreement.docx)
-* [Transaction Endorser Data Processing Agreement (MS-WORD)](./contracts/trx_endorser_dpa.docx)
-* *Optional* [Transaction Author Agreement (MS-WORD)](./contracts/trx_author_agreement.docx)
+>Note: This membership type is currently unavailable.
+
+* [Transaction Endorser Agreement (PDF)](./contracts/watermarked/trx_endorser_agreement.pdf)
+* [Transaction Endorser Data Processing Agreement (PDF)](./contracts/watermarked/trx_endorser_dpa.pdf)
+* *Optional* [Transaction Author Agreement (PDF)](./contracts/watermarked/trx_author_agreement.pdf)
