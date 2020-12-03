@@ -1,4 +1,4 @@
-The Bedrock Consortium is a [Linux Foundation](https://www.linuxfoundation.org) project that supports the operation of the Bedrock Business Utility (the “Utility” or "BBU"), an independent self-governed and self-sustainable public identity utility.
+The [Bedrock Consortium](https://bedrockconsortium.org/) is a [Linux Foundation](https://www.linuxfoundation.org) project that supports the operation of the Bedrock Business Utility (the “Utility” or "BBU"), an independent self-governed and self-sustainable public identity utility.
 
 <p align="center"><img src="./img/consortium-logo.png" alt="logo" height="150" width="300"></p>
 
