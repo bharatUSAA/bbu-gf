@@ -37,7 +37,7 @@ nav:
             - 'Trust Assurance': 'gf_assurance/index.md'
 - Help:
     - 'FAQ': 'faq.md'
-    - 'Contact us': 'contact_us.md'
+    - 'Contact us': 'https://bedrockconsortium.org/about/contact/'
 
 
 plugins:
