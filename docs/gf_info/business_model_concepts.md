@@ -2,7 +2,7 @@ When a consortium of organizations such as those associated with the Bedrock Bus
 
 ![biz_model_topics](../img/biz_model_topics.png)
 
-Identity Utility Networks have specific income and expense characteristics that are addressed by the principles, polices and procedures outlined in their governance frameworks.
+Public Identity Utilitys have specific income and expense characteristics that are addressed by the principles, polices and procedures outlined in their governance frameworks.
 
 | Expenses | Income |
 | --- | --- |
