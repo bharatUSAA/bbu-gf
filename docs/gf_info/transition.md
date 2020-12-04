@@ -51,10 +51,10 @@ Fundamentally, no single organization can own a network (system of ledgers) and 
 ## Transition
 In March 2020, the Sovrin Foundation's ongoing attempts to serve multiple disparate market segments under a single governance framework came to an abrupt halt when financial constraints finally triggered the need for a change.
 
-The [ToIP Foundation](http://trustoverip.org) offered all community stakeholders the flexibility to establish one or more Identity Utility Networks that can serve the needs of the diverse segments of the Sovrin Community and beyond.
+The [ToIP Foundation](http://trustoverip.org) offered all community stakeholders the flexibility to establish one or more Public Identity Utilitys that can serve the needs of the diverse segments of the Sovrin Community and beyond.
 
 ## Digital Trust Marketplace
-As the proliferation of decentralized identity utility networks continued to increase, the global identity industry needed a way to categorize and position independent networks for discovery, access and trust. The [Trust over IP (ToIP) Foundation](http://trustoverip.org/) addressed this growing need by establishing a collaborative community that frames the technology and governance infrastructure necessary to support an *interoperable digital trust marketplace*.
+As the proliferation of decentralized Public Identity Utilitys continued to increase, the global identity industry needed a way to categorize and position independent networks for discovery, access and trust. The [Trust over IP (ToIP) Foundation](http://trustoverip.org/) addressed this growing need by establishing a collaborative community that frames the technology and governance infrastructure necessary to support an *interoperable digital trust marketplace*.
 
 ![toip-triangle](../img/toip-triangle.png)
 
