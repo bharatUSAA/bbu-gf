@@ -27,36 +27,33 @@ Building on URI Standards, the DID Specification allows for both  root namespace
 
 ### Governing Body
 
-An organization or consortium that is responsible for the management of an Identity Utility Network.
+An organization or consortium that is responsible for the management of a Public Identity Utility.
 
 ### Backbone Network
 
-A distinct system of domain specific ledgers operated by decentralized peer nodes and associated with a DID Namespace. Governed by its own governance framework. See also *Identity Utility Network*.
+A distinct system of domain specific ledgers operated by decentralized peer nodes and associated with a DID Namespace. Governed by its own governance framework. See also *Public Identity Utility*.
 
-### Peer-Net (*Deprecated*)
+### Peer-Net
+> *Deprecated*
 
 A distinct system of domain specific ledgers operated by decentralized peer nodes and associated with a DID Namespace. Governed by its own governance framework. See also *Backbone Network*.
 
 ### Network of Networks
 
-A decentralized collection of discoverable and interoperable Identity Utility Networks. The internet is an exemplar of a network of networks structure based on DNS and URI standards.
+A decentralized collection of discoverable and interoperable public identity utilities. The internet is an exemplar of a network of networks structure based on DNS and URI standards.
 
 ### DID Ledger
-A distinct system of domain specific ledgers operated by decentralized peer nodes and associated with a DID Namespace.
-See *Identity Utility Network (IUN)*
-
-### Identity Utility Network (IUN)
 
 A distinct system of domain specific ledgers operated by decentralized peer nodes and associated with a DID Namespace.
-Preferably built on Hyperledger Indy, this ```DID Ledger```, is governed by an independent governing body and its own governance framework. Due to the overuse of terms such as "Network" and "Ledger", the term "Utility" has been accepted by the Bedrock Consortium to allow for additional clarity. See also *Backbone Network*.
+See *Public Identity Utility*
 
-### Remote Identity Utility (Remote IUN)
+### Public Identity Utility
 
-An Identity Utility Network associated with a DID Root Namespace that operates under its own Governance Framework.
+A distinct system of domain specific ledgers operated by decentralized peer nodes and associated with a DID Namespace. The ```DID Ledger```, is governed by an independent governing body and its own governance framework. Due to the overuse of terms such as "Network" and "Ledger", the term "Utility" has been accepted by the Bedrock Consortium to allow for additional clarity. See also *Backbone Network*.
 
 ### Decentralized DID Namespace Registry (DDNR)
 
-Provides registration, discovery, and access for an Identity Utility Network.
+Provides registration, discovery, and access for a Public Identity Utility.
 
 ### Identity Utility Administrator
 
@@ -64,7 +61,7 @@ See *Utility Service Provider*
 
 ### Utility Service Provider
 
-The provider of operational and maintenance services for an Identity Utility Network.
+The provider of operational and maintenance services for a Public Identity Utility.
 
 ### Trustee
 An Identity Owner entrusted with specific identity control responsibilities by another Identity Owner or with specific governance responsibilities by a Governance Framework. See *Recovery Key Trustee*
@@ -91,4 +88,4 @@ An interdependent group of enterprises, people and/or things that share a standa
 The Private-Key used by a Steward when interacting with the Indy CLI.
 
 ### Validator Private Key
-The Private-Key used by the Validator Node when performing concensus.
+The Private-Key used by the Validator Node when performing consensus.
