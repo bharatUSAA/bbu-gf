@@ -33,6 +33,7 @@ nav:
             - 'Services': 'gf_legal/legal_services.md'
             - 'Member Agreements': 'gf_legal/member_agreements.md'
             - 'Non-Member Agreements': 'gf_legal/non_member_agreements.md'
+            - 'FAQ': 'gf_legal/legal_faq.md'
         - Compliance:
             - 'Trust Assurance': 'gf_assurance/index.md'
 - Help:
